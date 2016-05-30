@@ -4,9 +4,10 @@
     android:layout_height="match_parent"
     tools:context="com.androidxx.yangjw.butterknifedemo.fragment.HeartSelectedFragment">
 
-   <ExpandableListView
+   <com.handmark.pulltorefresh.library.PullToRefreshExpandableListView
        android:id="@+id/selected_expand_listview"
        android:layout_width="match_parent"
-       android:layout_height="match_parent"/>
+       android:layout_height="match_parent"
+       android:groupIndicator="@null"/>
 
 </FrameLayout>

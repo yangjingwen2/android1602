@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+    <TextView
+        android:id="@+id/home_group_item_date_txt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="2016-05-30 周一"
+        android:layout_centerVertical="true"
+        android:gravity="center_vertical"
+        android:drawableLeft="@drawable/group_item_shape"
+        android:layout_alignParentLeft="true"/>
+
+    <TextView
+        android:id="@+id/home_group_item_state_txt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="下次更新时间8：00"
+        android:layout_centerVertical="true"
+        android:layout_alignParentRight="true"/>
+</RelativeLayout>

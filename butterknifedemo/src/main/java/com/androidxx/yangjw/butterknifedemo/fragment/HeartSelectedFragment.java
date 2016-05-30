@@ -1,17 +1,26 @@
 package com.androidxx.yangjw.butterknifedemo.fragment;
 
 import android.content.Context;
+import android.content.Intent;
 import android.net.Uri;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
+import android.text.Layout;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.BaseExpandableListAdapter;
 import android.widget.ExpandableListView;
+import android.widget.ImageView;
 import android.widget.TextView;
+import android.widget.Toast;
 
+import com.androidxx.yangjw.butterknifedemo.DetailsActivity;
 import com.androidxx.yangjw.butterknifedemo.R;
+import com.bigkoo.convenientbanner.ConvenientBanner;
+import com.bigkoo.convenientbanner.holder.CBViewHolderCreator;
+import com.bigkoo.convenientbanner.holder.Holder;
+import com.handmark.pulltorefresh.library.PullToRefreshExpandableListView;
 
 import org.w3c.dom.Text;
 
@@ -22,6 +31,8 @@ import java.util.Map;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;
+import butterknife.OnClick;
+import butterknife.OnItemClick;
 
 /**
  * A simple {@link Fragment} subclass.
@@ -46,13 +57,18 @@ public class HeartSelectedFragment extends BaseFragment {
     private List<String> groupData = new ArrayList<>();
     private Map<String,List<String>> childDataMap = new HashMap<>();
     private MyExpandAdapter mExpandAdapter;
+    private Context mContext;
+    private List<Integer> urls = new ArrayList<>();
+    private HeaderViewHolder headerViewHolder ;
 
     public HeartSelectedFragment() {
         // Required empty public constructor
     }
 
     @BindView(R.id.selected_expand_listview)
-    ExpandableListView mExpandListView;
+    PullToRefreshExpandableListView mExpandListView;
+
+    private ExpandableListView listView;
 
     /**
      * Use this factory method to create a new instance of
@@ -79,6 +95,7 @@ public class HeartSelectedFragment extends BaseFragment {
             mParam1 = getArguments().getString(ARG_PARAM1);
             mParam2 = getArguments().getString(ARG_PARAM2);
         }
+        mContext = getActivity();
     }
 
     @Override
@@ -87,8 +104,75 @@ public class HeartSelectedFragment extends BaseFragment {
         // Inflate the layout for this fragment
         View view = inflater.inflate(R.layout.fragment_heart_selected, container, false);
         ButterKnife.bind(this,view);
+        setupHeaderView ();
         setupExpandListView();
+
         return view;
+    }
+
+    @Override
+    public void onStart() {
+        super.onStart();
+        headerViewHolder.convenientBanner.startTurning(3000);
+    }
+
+    @Override
+    public void onStop() {
+        super.onStop();
+        headerViewHolder.convenientBanner.stopTurning();
+    }
+
+    private void setupHeaderView () {
+        urls.add(R.drawable.a1);
+        urls.add(R.drawable.a2);
+
+        View headerview = LayoutInflater.from(mContext).inflate(R.layout.listview_header_view, null);
+       headerViewHolder = new HeaderViewHolder(headerview);
+        headerViewHolder.convenientBanner.setPages(new CBViewHolderCreator<MyBannerHolder>() {
+            @Override
+            public MyBannerHolder createHolder() {
+                return new MyBannerHolder();
+            }
+        },urls)
+        .setPageIndicator(new int[] {R.drawable.ic_page_indicator,R.drawable.ic_page_indicator_focused})
+        .setPageIndicatorAlign(ConvenientBanner.PageIndicatorAlign.CENTER_HORIZONTAL);
+
+        listView = mExpandListView.getRefreshableView();
+        listView.addHeaderView(headerview);
+        listView.setOnChildClickListener(new ExpandableListView.OnChildClickListener() {
+            @Override
+            public boolean onChildClick(ExpandableListView parent, View v, int groupPosition, int childPosition, long id) {
+                Intent intent = new Intent(mContext, DetailsActivity.class);
+                startActivity(intent);
+
+                return true;
+            }
+        });
+
+    }
+
+    private class MyBannerHolder implements Holder<Integer> {
+        ImageView imageView;
+        @Override
+        public View createView(Context context) {
+            imageView = new ImageView(context);
+            imageView.setScaleType(ImageView.ScaleType.CENTER_CROP);
+            return imageView;
+        }
+
+        @Override
+        public void UpdateUI(Context context, int position, Integer idRes) {
+            imageView.setImageResource(idRes);
+        }
+    }
+
+    class HeaderViewHolder {
+        @BindView(R.id.home_header_bannner)
+        public ConvenientBanner convenientBanner;
+
+        public HeaderViewHolder(View view) {
+            ButterKnife.bind(this,view);
+        }
     }
 
     private void setupExpandListView() {
@@ -96,22 +180,30 @@ public class HeartSelectedFragment extends BaseFragment {
         //2、创建适配器
         mExpandAdapter = new MyExpandAdapter();
         //3、关联适配器
-        mExpandListView.setAdapter(mExpandAdapter);
+        listView.setAdapter(mExpandAdapter);
         initGroupData();
 
         //设置所有的GroupItem全部展开
         for (int i = 0; i < groupData.size(); i++) {
-            mExpandListView.expandGroup(i);
+            listView.expandGroup(i);
         }
 
         //设置ExpandableListView的GroupItem点击事件失效
-        mExpandListView.setOnGroupClickListener(new ExpandableListView.OnGroupClickListener() {
-            @Override
-            public boolean onGroupClick(ExpandableListView parent, View v, int groupPosition, long id) {
-                return true;
-            }
-        });
+//        listView.setOnGroupClickListener(new ExpandableListView.OnGroupClickListener() {
+//            @Override
+//            public boolean onGroupClick(ExpandableListView parent, View v, int groupPosition, long id) {
+//                return true;
+//            }
+//        });
+
+
     }
+
+//    @OnItemClick(value = R.id.selected_expand_listview)
+//    public boolean onGroupClick(ExpandableListView parent, View v, int groupPosition, long id) {
+//        Toast.makeText(mContext, "ssss", Toast.LENGTH_SHORT).show();
+//        return true;
+//    }
 
     private void initGroupData() {
         for (int i = 0; i < 6; i++) {
@@ -200,22 +292,59 @@ public class HeartSelectedFragment extends BaseFragment {
 
         @Override
         public View getGroupView(int groupPosition, boolean isExpanded, View convertView, ViewGroup parent) {
-            TextView view = (TextView) convertView;
+           View view = convertView;
+            GroupViewHolder groupViewHolder = null;
             if (view == null) {
-                view = new TextView(getActivity());
+                view = LayoutInflater.from(mContext).inflate(R.layout.home_group_item_view,null);
+                groupViewHolder = new GroupViewHolder(view);
+            } else {
+                groupViewHolder = (GroupViewHolder) view.getTag();
             }
-            view.setText("GROUP_ITEM" + groupPosition);
+            groupViewHolder.dateText.setText("2015-06-06 周三");
             return view;
+        }
+
+        class GroupViewHolder {
+            @BindView(R.id.home_group_item_date_txt)
+            public TextView dateText;
+            @BindView(R.id.home_group_item_state_txt)
+            public TextView stateText;
+
+            public GroupViewHolder(View view) {
+                view.setTag(this);
+                ButterKnife.bind(this,view);
+            }
         }
 
         @Override
         public View getChildView(int groupPosition, int childPosition, boolean isLastChild, View convertView, ViewGroup parent) {
-            TextView childview = (TextView) convertView;
-            if (childview == null) {
-                childview = new TextView(getActivity());
+            View childView = convertView;
+            ChildViewHolder viewHolder = null;
+            if (childView == null) {
+                childView = LayoutInflater.from(mContext).inflate(R.layout.home_child_item_view,null);
+                viewHolder = new ChildViewHolder(childView);
+            } else {
+                viewHolder = (ChildViewHolder) childView.getTag();
             }
-            childview.setText(childDataMap.get(groupPosition+"").get(childPosition));
-            return childview;
+            viewHolder.imageView.setImageResource(R.drawable.a12);
+            return childView;
+        }
+
+        class ChildViewHolder {
+            @BindView(R.id.child_item_img)
+            public ImageView imageView;
+
+            public ChildViewHolder(View view) {
+                view.setTag(this);
+                ButterKnife.bind(this,view);
+            }
+
+            @OnClick(R.id.child_item_img)
+            public void click(View view) {
+                Toast.makeText(mContext, "click", Toast.LENGTH_SHORT).show();
+                Intent intent = new Intent(getActivity(),DetailsActivity.class);
+                startActivity(intent);
+            }
         }
 
         @Override

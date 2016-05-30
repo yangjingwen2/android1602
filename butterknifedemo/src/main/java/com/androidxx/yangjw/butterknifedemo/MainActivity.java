@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
         mFragmentManager = getSupportFragmentManager();
         FragmentTransaction fragmentTransaction = mFragmentManager.beginTransaction();
         HeartSelectedFragment heartSelectedFragment = HeartSelectedFragment.newInstance("", "");
-        fragmentTransaction.add(R.id.home_fragment_content_fl,heartSelectedFragment);
+        fragmentTransaction.replace(R.id.home_fragment_content_fl,heartSelectedFragment);
         fragmentTransaction.commit();
     }
 
