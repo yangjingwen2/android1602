@@ -2,10 +2,18 @@ package com.androidxx.yangjw.httplibrary;
 
 import android.os.AsyncTask;
 
-import java.io.IOException;
+import org.json.JSONException;
+import org.json.JSONObject;
 
+import java.io.IOException;
+import java.util.Map;
+import java.util.Set;
+
+import okhttp3.FormBody;
+import okhttp3.MediaType;
 import okhttp3.OkHttpClient;
 import okhttp3.Request;
+import okhttp3.RequestBody;
 import okhttp3.Response;
 
 /**
@@ -15,6 +23,7 @@ public abstract class OkHttpTask  {
 
     private static OkHttpClient okHttpClient;
     public static final String URL_REGEX = "((http|ftp|https)://)(([a-zA-Z0-9\\._-]+\\.[a-zA-Z]{2,6})|([0-9]{1,3}\\.[0-9]{1,3}\\.[0-9]{1,3}\\.[0-9]{1,3}))(:[0-9]{1,4})*(/[a-zA-Z0-9\\&%_\\./-~-]*)?";
+
 
 
     public static OkHttpTaskBuidler newInstance() {
@@ -30,6 +39,12 @@ public abstract class OkHttpTask  {
     public static class OkHttpTaskBuidler extends AsyncTask<String,Integer,String>{
 
         private IOkTaskCallback callback;
+        private boolean post;
+        private RequestBody formBody;
+
+        public enum OkType {
+            form,json
+        }
 
         public void start(String url) {
 
@@ -48,6 +63,42 @@ public abstract class OkHttpTask  {
             return OkHttpTaskBuidler.this;
         }
 
+        public OkHttpTaskBuidler post(Map<String,String> param,OkType type) {
+
+            if (param == null) {
+                throw new NullPointerException("param is null");
+            }
+
+            post = true;
+            switch (type) {
+                case form:
+                    FormBody.Builder builder = new FormBody.Builder();
+                    //解析Map
+                    Set<String> strings = param.keySet();
+                    for (String key:strings) {
+                        builder.add(key,param.get(key));
+                    }
+                    formBody = builder.build();
+                    break;
+                case json:
+                    try {
+                        MediaType mediaType = MediaType.parse("application/json; charset=utf-8");
+                        JSONObject jsonObject = new JSONObject();
+                        //解析Map
+                        Set<String> keySet = param.keySet();
+                        for (String key:keySet) {
+                                jsonObject.put(key,param.get(key));
+                        }
+                        formBody = RequestBody.create(mediaType,jsonObject.toString());
+                    } catch (JSONException e) {
+                        e.printStackTrace();
+                    }
+                    break;
+            }
+
+            return OkHttpTaskBuidler.this;
+        }
+
 
 
         /**
@@ -58,8 +109,12 @@ public abstract class OkHttpTask  {
         @Override
         protected String doInBackground(String... params) {
             String url = params[0];
-            Request request = new Request.Builder().url(url).build();
+            Request.Builder builder = new Request.Builder();
             try {
+                if (post) {
+                    builder.post(formBody);
+                }
+                Request request = builder.url(url).build();
                 Response response = okHttpClient.newCall(request).execute();
                 return response.body().string();
             } catch (IOException e) {
