@@ -20,4 +20,14 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Get异步请求" />
+    <Button
+        android:id="@+id/okhttp_post_sync_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Post同步请求" />
+    <Button
+        android:id="@+id/okhttp_json_sync_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Post同步请求传递JSON" />
 </LinearLayout>
