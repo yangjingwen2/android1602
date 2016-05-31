@@ -1,14 +1,19 @@
 package com.androidxx.yangjw.httplibrary;
 
+import android.content.Context;
 import android.os.AsyncTask;
+import android.util.Log;
 
 import org.json.JSONException;
 import org.json.JSONObject;
 
+import java.io.File;
 import java.io.IOException;
 import java.util.Map;
 import java.util.Set;
 
+import okhttp3.Cache;
+import okhttp3.CacheControl;
 import okhttp3.FormBody;
 import okhttp3.MediaType;
 import okhttp3.OkHttpClient;
@@ -26,10 +31,13 @@ public abstract class OkHttpTask  {
 
 
 
-    public static OkHttpTaskBuidler newInstance() {
+    public static OkHttpTaskBuidler newInstance(Context context) {
 
         if (okHttpClient == null) {
-            okHttpClient = new OkHttpClient.Builder().build();
+            File cacheDir = context.getCacheDir();
+            okHttpClient = new OkHttpClient.Builder()
+                    .cache(new Cache(cacheDir,4*1024*1024))
+                    .build();
         }
 
         OkHttpTaskBuidler okHttpTask = new OkHttpTaskBuidler();
@@ -37,7 +45,7 @@ public abstract class OkHttpTask  {
     }
 
     public static class OkHttpTaskBuidler extends AsyncTask<String,Integer,String>{
-
+        protected boolean isCache;
         private IOkTaskCallback callback;
         private boolean post;
         private RequestBody formBody;
@@ -55,6 +63,7 @@ public abstract class OkHttpTask  {
             if (!url.matches(URL_REGEX)) {
                 throw new IllegalArgumentException("URL is wrong");
             }
+//            isCache = cache;
             this.execute(url);
         }
 
@@ -110,12 +119,16 @@ public abstract class OkHttpTask  {
         protected String doInBackground(String... params) {
             String url = params[0];
             Request.Builder builder = new Request.Builder();
+            if (isCache) {
+                builder.cacheControl(CacheControl.FORCE_CACHE);
+            }
+            Response response = null;
             try {
                 if (post) {
                     builder.post(formBody);
                 }
                 Request request = builder.url(url).build();
-                Response response = okHttpClient.newCall(request).execute();
+                response = okHttpClient.newCall(request).execute();
                 return response.body().string();
             } catch (IOException e) {
                 e.printStackTrace();
