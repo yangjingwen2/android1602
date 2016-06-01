@@ -84,6 +84,13 @@ public class MainActivity extends AppCompatActivity {
         mRecyclerView.setAdapter(new SlideInLeftAnimationAdapter(myRecyclerAdapter));
     }
 
+    /**
+     *
+     */
+    private void setupHeaderView() {
+
+    }
+
     private void initData() {
         for (int i = 0; i < 20; i++) {
             datas.add(R.drawable.a1);
@@ -94,17 +101,40 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
+
+    class HeaderViewHolder extends RecyclerView.ViewHolder {
+
+        public HeaderViewHolder(View itemView) {
+            super(itemView);
+        }
+    }
+
     class MyRecyclerAdapter extends RecyclerView.Adapter<MyViewHolder> {
+        public static final int HEADER_VIEW = 1;
+        public static final int ITEM_VIEW = 2;
+        @Override
+        public int getItemViewType(int position) {
+            if (position == 0) {
+                return HEADER_VIEW;
+            }
+            return ITEM_VIEW;
+        }
 
         /**
          * 创建布局文件和创建ViewHodler
          * @param parent
-         * @param viewType
+         * @param viewType 由getItemViewType返回的
          * @return
          */
         @Override
         public MyViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
-            View view = LayoutInflater.from(MainActivity.this).inflate(R.layout.recycler_item, null);
+            View view = null;
+            if (viewType == HEADER_VIEW) {
+                view = LayoutInflater.from(MainActivity.this).inflate(R.layout.header_view,parent,false);
+                return new MyViewHolder(view);
+            }
+
+            view = LayoutInflater.from(MainActivity.this).inflate(R.layout.recycler_item, parent, false);
             return new MyViewHolder(view);
         }
 
@@ -115,7 +145,9 @@ public class MainActivity extends AppCompatActivity {
          */
         @Override
         public void onBindViewHolder(MyViewHolder holder, int position) {
-            holder.itemImage.setImageResource(datas.get(position));
+            if (position>0) {
+                holder.itemImage.setImageResource(datas.get(position));
+            }
         }
 
         /**
@@ -129,16 +161,18 @@ public class MainActivity extends AppCompatActivity {
     }
 
     class MyViewHolder extends RecyclerView.ViewHolder {
-        @BindView(R.id.item_image)
+//        @BindView(R.id.item_image)
         public ImageView itemImage;
+
         public MyViewHolder(View itemView) {
             super(itemView);
-            ButterKnife.bind(this,itemView);
+//            ButterKnife.bind(this,itemView);
+            itemImage = (ImageView) itemView.findViewById(R.id.item_image);
         }
 
-        @OnClick(R.id.item_image)
-        public void click(View view) {
-
-        }
+//        @OnClick(R.id.item_image)
+//        public void click(View view) {
+//
+//        }
     }
 }
