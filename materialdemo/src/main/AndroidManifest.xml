@@ -18,7 +18,12 @@
         <activity android:name=".CoordinatorActivity" />
         <activity android:name=".CustomBehaviorActivity" />
         <activity android:name=".APPBarLayoutActivity" />
-        <activity android:name=".CollapsingToolBarLayoutActivity"></activity>
+        <activity android:name=".CollapsingToolBarLayoutActivity" />
+        <activity android:name=".SnackBarActivity" />
+        <activity android:name=".FloatActionButtonActivity" />
+        <activity android:name=".TextInputLayoutActivity" />
+        <activity android:name=".ShareElement1Activity" />
+        <activity android:name=".ShareElement2Activity"></activity>
     </application>
 
 </manifest>

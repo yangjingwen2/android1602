@@ -37,6 +37,18 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
             case 3:
                 intent.setClass(this,CollapsingToolBarLayoutActivity.class);
                 break;
+            case 4:
+                intent.setClass(this,SnackBarActivity.class);
+                break;
+            case 5:
+                intent.setClass(this,FloatActionButtonActivity.class);
+                break;
+            case 6:
+                intent.setClass(this,TextInputLayoutActivity.class);
+                break;
+            case 7:
+                intent.setClass(this,ShareElement1Activity.class);
+                break;
         }
 
         startActivity(intent);
