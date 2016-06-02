@@ -5,6 +5,8 @@ import android.content.Intent;
 import android.net.Uri;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
+import android.support.v7.widget.LinearLayoutManager;
+import android.support.v7.widget.RecyclerView;
 import android.text.Layout;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -20,6 +22,7 @@ import com.androidxx.yangjw.butterknifedemo.R;
 import com.bigkoo.convenientbanner.ConvenientBanner;
 import com.bigkoo.convenientbanner.holder.CBViewHolderCreator;
 import com.bigkoo.convenientbanner.holder.Holder;
+import com.handmark.pulltorefresh.library.PullToRefreshBase;
 import com.handmark.pulltorefresh.library.PullToRefreshExpandableListView;
 
 import org.w3c.dom.Text;
@@ -60,6 +63,8 @@ public class HeartSelectedFragment extends BaseFragment {
     private Context mContext;
     private List<Integer> urls = new ArrayList<>();
     private HeaderViewHolder headerViewHolder ;
+    private List<Integer> recyclerDatas = new ArrayList<>();
+    private MyRecyclerAdapter myRecyclerAdapter;
 
     public HeartSelectedFragment() {
         // Required empty public constructor
@@ -106,7 +111,7 @@ public class HeartSelectedFragment extends BaseFragment {
         ButterKnife.bind(this,view);
         setupHeaderView ();
         setupExpandListView();
-
+        initData();
         return view;
     }
 
@@ -122,12 +127,52 @@ public class HeartSelectedFragment extends BaseFragment {
         headerViewHolder.convenientBanner.stopTurning();
     }
 
+    class MyRecyclerAdapter extends RecyclerView.Adapter<RecViewHolder> {
+
+        @Override
+        public RecViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
+            ImageView imageView = new ImageView(getActivity());
+
+            return new RecViewHolder(imageView);
+        }
+
+        @Override
+        public void onBindViewHolder(RecViewHolder holder, int position) {
+            holder.imageView.setImageResource(R.mipmap.ic_launcher);
+        }
+
+        @Override
+        public int getItemCount() {
+            return recyclerDatas.size();
+        }
+    }
+
+    private void initData() {
+        for (int i = 0; i < 10; i++) {
+            recyclerDatas.add(R.mipmap.ic_launcher);
+        }
+        myRecyclerAdapter.notifyDataSetChanged();
+    }
+
+    class RecViewHolder extends RecyclerView.ViewHolder {
+
+        public ImageView imageView;
+        public RecViewHolder(View itemView) {
+            super(itemView);
+            imageView = (ImageView) itemView;
+        }
+    }
+
     private void setupHeaderView () {
         urls.add(R.drawable.a1);
         urls.add(R.drawable.a2);
 
         View headerview = LayoutInflater.from(mContext).inflate(R.layout.listview_header_view, null);
        headerViewHolder = new HeaderViewHolder(headerview);
+
+        headerViewHolder.mRecyclerView.setLayoutManager(new LinearLayoutManager(getActivity(),LinearLayoutManager.HORIZONTAL,false));
+        myRecyclerAdapter = new MyRecyclerAdapter();
+        headerViewHolder.mRecyclerView.setAdapter(myRecyclerAdapter);
         headerViewHolder.convenientBanner.setPages(new CBViewHolderCreator<MyBannerHolder>() {
             @Override
             public MyBannerHolder createHolder() {
@@ -137,6 +182,17 @@ public class HeartSelectedFragment extends BaseFragment {
         .setPageIndicator(new int[] {R.drawable.ic_page_indicator,R.drawable.ic_page_indicator_focused})
         .setPageIndicatorAlign(ConvenientBanner.PageIndicatorAlign.CENTER_HORIZONTAL);
 
+        mExpandListView.setOnRefreshListener(new PullToRefreshBase.OnRefreshListener2<ExpandableListView>() {
+            @Override
+            public void onPullDownToRefresh(PullToRefreshBase<ExpandableListView> refreshView) {
+                mExpandListView.onRefreshComplete();
+            }
+
+            @Override
+            public void onPullUpToRefresh(PullToRefreshBase<ExpandableListView> refreshView) {
+
+            }
+        });
         listView = mExpandListView.getRefreshableView();
         listView.addHeaderView(headerview);
         listView.setOnChildClickListener(new ExpandableListView.OnChildClickListener() {
@@ -169,6 +225,8 @@ public class HeartSelectedFragment extends BaseFragment {
     class HeaderViewHolder {
         @BindView(R.id.home_header_bannner)
         public ConvenientBanner convenientBanner;
+        @BindView(R.id.home_header_recyclerview)
+        public RecyclerView mRecyclerView;
 
         public HeaderViewHolder(View view) {
             ButterKnife.bind(this,view);

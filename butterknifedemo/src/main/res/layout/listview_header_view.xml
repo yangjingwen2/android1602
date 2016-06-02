@@ -8,4 +8,8 @@
         android:layout_width="match_parent"
         app:canLoop="true"
         android:layout_height="180dp"/>
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/home_header_recyclerview"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"/>
 </LinearLayout>

@@ -41,4 +41,5 @@ dependencies {
     compile 'com.makeramen:roundedimageview:2.2.1'
     compile 'com.bigkoo:convenientbanner:2.0.5'
     compile project(':refreshlibrary')
+    compile 'com.android.support:recyclerview-v7:23.4.0'
 }
