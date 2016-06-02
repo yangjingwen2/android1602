@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MaterialDemo</string>
+
+    <string-array name="index_data">
+        <item>CoordinatorLayout的基本使用</item>
+        <item>自定义的Behavior</item>
+    </string-array>
+</resources>
