@@ -4,5 +4,7 @@
     <string-array name="index_data">
         <item>CoordinatorLayout的基本使用</item>
         <item>自定义的Behavior</item>
+        <item>AppBarLayout的基本使用</item>
+        <item>CollapsingToolBarLayout的基本使用</item>
     </string-array>
 </resources>

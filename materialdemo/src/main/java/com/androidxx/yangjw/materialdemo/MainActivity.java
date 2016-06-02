@@ -31,6 +31,12 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
             case 1:
                 intent.setClass(this,CustomBehaviorActivity.class);
                 break;
+            case 2:
+                intent.setClass(this,APPBarLayoutActivity.class);
+                break;
+            case 3:
+                intent.setClass(this,CollapsingToolBarLayoutActivity.class);
+                break;
         }
 
         startActivity(intent);
