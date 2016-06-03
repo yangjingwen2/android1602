@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">VideoDemo</string>
+
+    <string-array name="index_data">
+        <item>基本VideoView使用</item>
+        <item>自定义VideoView实现全屏播放</item>
+        <item>SurfaceView的基本使用</item>
+        <item>SurfaceView的基本使用2</item>
+    </string-array>
+</resources>
