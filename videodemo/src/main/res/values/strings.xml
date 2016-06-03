@@ -6,5 +6,7 @@
         <item>自定义VideoView实现全屏播放</item>
         <item>SurfaceView的基本使用</item>
         <item>SurfaceView的基本使用2</item>
+        <item>SurfaceView+MediaPalyer进行视屏播放</item>
+        <item>Vitamio进行视屏播放</item>
     </string-array>
 </resources>
