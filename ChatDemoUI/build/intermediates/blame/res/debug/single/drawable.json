@@ -1,0 +1,578 @@
+[
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_video_call_selector.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable\\chat_video_call_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_green_normal_shape.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable\\btn_green_normal_shape.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_video_selector.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable\\chat_video_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_green_selector.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable\\btn_green_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_gray_selector.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable\\btn_gray_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\call_hangup_bg.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable\\call_hangup_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\mm_title_act_btn.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable\\mm_title_act_btn.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_cancel_bj.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable\\btn_cancel_bj.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_setting_bg.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable\\tab_setting_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\smiley_minus_btn.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable\\smiley_minus_btn.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_bg_selector.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable\\checkbox_bg_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\splash_gradient.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable\\splash_gradient.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_bottom_selector.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable\\btn_bottom_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\camera_switch_selector.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable\\camera_switch_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\button_bg.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable\\button_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_logout_pressed_shape.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable\\btn_logout_pressed_shape.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\button_register_bg.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable\\button_register_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_white_selector.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable\\btn_white_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_file_selector.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable\\chat_file_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_send_btn_selector.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable\\chat_send_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\button_myprofile_selector.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable\\button_myprofile_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_bg_selector.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable\\checkbox_bg_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_blue_selector.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable\\btn_blue_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_white_normal_shape.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable\\btn_white_normal_shape.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\red_circle.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable\\red_circle.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_white_normal_shape.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable\\btn_white_normal_shape.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_location_selector.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable\\chat_location_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\mm_listitem.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable\\mm_listitem.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_contact_list_bg.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable\\tab_contact_list_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_green_selector.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable\\btn_green_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\appitem_del_btn.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable\\appitem_del_btn.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_gray_pressed_shape.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable\\btn_gray_pressed_shape.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\button_normal_shape.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable\\button_normal_shape.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\photogrid_list_selector.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable\\photogrid_list_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\recording_text_hint_bg.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable\\recording_text_hint_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_takepic_selector.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable\\chat_takepic_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\appitem_del_btn.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable\\appitem_del_btn.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\chatting_setmode_voice_btn.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable\\chatting_setmode_voice_btn.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\search_clear.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable\\search_clear.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_gray_normal_shape.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable\\btn_gray_normal_shape.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_error_item_bg.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable\\chat_error_item_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_bg_gray_selector.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable\\checkbox_bg_gray_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_green_normal_shape.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable\\btn_green_normal_shape.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\mm_title_act_btn.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable\\mm_title_act_btn.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_cancel_normal_shape.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable\\btn_cancel_normal_shape.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_press_speak_btn.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable\\chat_press_speak_btn.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_contact_list_bg.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable\\tab_contact_list_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\context_menu_item_bg.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable\\context_menu_item_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_msg_text_color.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable\\menu_msg_text_color.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\msg_state_failed_resend.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable\\msg_state_failed_resend.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\main_bottom_item_bg.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable\\main_bottom_item_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\button_login_bg.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable\\button_login_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_press_speak_btn.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable\\chat_press_speak_btn.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_gray_pressed_shape.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable\\btn_gray_pressed_shape.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\button_selector_shape.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable\\button_selector_shape.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\recording_hint_bg.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable\\recording_hint_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\search_clear.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable\\search_clear.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_logout_normal_shape.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable\\btn_logout_normal_shape.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\context_menu_item_bg.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable\\context_menu_item_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\recording_text_hint_bg.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable\\recording_text_hint_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_face_selector.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable\\chat_face_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\smiley_add_btn.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable\\smiley_add_btn.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\chatto_bg.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable\\chatto_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\recording_hint_bg.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable\\recording_hint_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\chatfrom_bg.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable\\chatfrom_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\chatto_bg.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable\\chatto_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_msg_text_color.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable\\menu_msg_text_color.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_file_selector.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable\\chat_file_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\timestampe_bg.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable\\timestampe_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_chat_bg.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable\\tab_chat_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\main_bottom_item_bg.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable\\main_bottom_item_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\call_answer_bg.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable\\call_answer_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\timestampe_bg.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable\\timestampe_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\button_selector_shape.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable\\button_selector_shape.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_bg_gray_selector.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable\\checkbox_bg_gray_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_white_pressed_shape.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable\\btn_white_pressed_shape.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\splash_gradient.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable\\splash_gradient.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\type_select_btn.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable\\type_select_btn.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\roominfo_add_btn.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable\\roominfo_add_btn.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\button_myprofile_selector.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable\\button_myprofile_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_gray_normal_shape.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable\\btn_gray_normal_shape.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\common_tab_bg.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable\\common_tab_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\button_login_bg.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable\\button_login_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_blue_pressed_shape.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable\\btn_blue_pressed_shape.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_video_selector.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable\\chat_video_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\smiley_add_btn.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable\\smiley_add_btn.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\msg_state_failed_resend.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable\\msg_state_failed_resend.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\sidebar_background_pressed.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable\\sidebar_background_pressed.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_blue_normal_shape.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable\\btn_blue_normal_shape.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_cancel_normal_shape.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable\\btn_cancel_normal_shape.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_error_item_bg.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable\\chat_error_item_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\mm_listitem_grey.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable\\mm_listitem_grey.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_green_pressed_shape.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable\\btn_green_pressed_shape.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\roominfo_add_btn.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable\\roominfo_add_btn.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_gray_selector.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable\\btn_gray_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_cancel_pressed_shape.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable\\btn_cancel_pressed_shape.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_takepic_selector.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable\\chat_takepic_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\nickename_input_bg.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable\\nickename_input_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_voice_call_selector.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable\\chat_voice_call_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_location_selector.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable\\chat_location_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_setting_bg.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable\\tab_setting_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_cancel_bj.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable\\btn_cancel_bj.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_bottom_selector.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable\\btn_bottom_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_blue_pressed_shape.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable\\btn_blue_pressed_shape.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\mm_listitem_grey.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable\\mm_listitem_grey.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_edit.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable\\chat_edit.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_blue_selector.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable\\btn_blue_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_edit.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable\\chat_edit.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_logout_pressed_shape.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable\\btn_logout_pressed_shape.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\photogrid_list_selector.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable\\photogrid_list_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\button_normal_shape.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable\\button_normal_shape.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_face_selector.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable\\chat_face_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_logout_normal_shape.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable\\btn_logout_normal_shape.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_video_call_selector.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable\\chat_video_call_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_white_selector.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable\\btn_white_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\type_select_btn.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable\\type_select_btn.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\button_register_bg.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable\\button_register_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\chatting_setmode_keyboard_btn.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable\\chatting_setmode_keyboard_btn.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\camera_switch_selector.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable\\camera_switch_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\smiley_minus_btn.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable\\smiley_minus_btn.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_image_selector.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable\\chat_image_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_chat_bg.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable\\tab_chat_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\button_bg.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable\\button_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\sidebar_background_pressed.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable\\sidebar_background_pressed.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_green_pressed_shape.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable\\btn_green_pressed_shape.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_white_pressed_shape.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable\\btn_white_pressed_shape.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\mm_listitem.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable\\mm_listitem.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_voice_call_selector.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable\\chat_voice_call_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\call_answer_bg.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable\\call_answer_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\call_hangup_bg.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable\\call_hangup_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\chatfrom_bg.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable\\chatfrom_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\red_circle.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable\\red_circle.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\common_tab_bg.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable\\common_tab_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_text_bg.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable\\edit_text_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\nickename_input_bg.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable\\nickename_input_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_image_selector.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable\\chat_image_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\chatting_setmode_keyboard_btn.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable\\chatting_setmode_keyboard_btn.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\chatting_setmode_voice_btn.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable\\chatting_setmode_voice_btn.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_send_btn_selector.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable\\chat_send_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_blue_normal_shape.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable\\btn_blue_normal_shape.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_text_bg.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable\\edit_text_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_style_alert_dialog_special.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable\\btn_style_alert_dialog_special.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_style_alert_dialog_special.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable\\btn_style_alert_dialog_special.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_cancel_pressed_shape.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable\\btn_cancel_pressed_shape.xml"
+    }
+]

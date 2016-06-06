@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="420dpi"
+    format="7"
+    timestamp="626929855902858" >
+
+    <task
+        name="javac"
+        duration="3294" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="1799" />
+    <task
+        name="verifier"
+        duration="843" />
+
+    <artifact
+        location="E:\workspace\studiowork\TopLevel1602\ChatDemoUI\build\outputs\apk\ChatDemoUI-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="626929855902858" >
+        <artifact
+            location="E:\workspace\studiowork\TopLevel1602\ChatDemoUI\build\outputs\apk\ChatDemoUI-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

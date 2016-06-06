@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\unread_count_bg.9.png",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable-mdpi\\unread_count_bg.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\unread_count_bg.9.png",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable-mdpi\\unread_count_bg.9.png"
+    }
+]

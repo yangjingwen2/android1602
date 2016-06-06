@@ -1,0 +1,506 @@
+[
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_speaker_normal.png",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable-xhdpi\\icon_speaker_normal.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_mute_normal.png",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable-xhdpi\\icon_mute_normal.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\create_group.png",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable-xhdpi\\create_group.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\settings_normal.png",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable-xhdpi\\settings_normal.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\delete_expression.png",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable-xhdpi\\delete_expression.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\app_panel_video_icon.9.png",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable-xhdpi\\app_panel_video_icon.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\contact_list_togroup.png",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable-xhdpi\\contact_list_togroup.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_voice_call_self.png",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable-xhdpi\\chat_voice_call_self.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_edit_normal.9.png",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable-xhdpi\\chat_edit_normal.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_takepic_pressed.png",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable-xhdpi\\chat_takepic_pressed.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_press_speak_btn_normal.9.png",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable-xhdpi\\chat_press_speak_btn_normal.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\default_avatar.png",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable-xhdpi\\default_avatar.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\groups_icon.png",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable-xhdpi\\groups_icon.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_video_call_receive.png",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable-xhdpi\\chat_video_call_receive.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\signin_local_gallry.png",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable-xhdpi\\signin_local_gallry.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\open_icon.png",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable-xhdpi\\open_icon.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\right_arrow_icon.png",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable-xhdpi\\right_arrow_icon.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\contact_list_selected.png",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable-xhdpi\\contact_list_selected.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\groups_icon.png",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable-xhdpi\\groups_icon.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_video_normal.png",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable-xhdpi\\chat_video_normal.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_video_call_pressed.png",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable-xhdpi\\chat_video_call_pressed.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\contact_list_normal.png",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable-xhdpi\\contact_list_normal.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_location_normal.png",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable-xhdpi\\chat_location_normal.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_image_pressed.png",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable-xhdpi\\chat_image_pressed.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\new_friends_icon.png",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable-xhdpi\\new_friends_icon.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_face_normal.png",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable-xhdpi\\chat_face_normal.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_speaker_on.png",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable-xhdpi\\icon_speaker_on.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_video_pressed.png",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable-xhdpi\\chat_video_pressed.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_voice_call_normal.png",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable-xhdpi\\chat_voice_call_normal.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\settings_normal.png",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable-xhdpi\\settings_normal.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\splash.png",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable-xhdpi\\splash.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\back.png",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable-xhdpi\\back.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_video_call_receive.png",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable-xhdpi\\chat_video_call_receive.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\open_icon.png",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable-xhdpi\\open_icon.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_voice_call_normal.png",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable-xhdpi\\chat_voice_call_normal.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\close_icon.png",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable-xhdpi\\close_icon.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\close_icon.png",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable-xhdpi\\close_icon.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\blue_add.png",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable-xhdpi\\blue_add.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\splash.png",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable-xhdpi\\splash.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\settings_selected.png",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable-xhdpi\\settings_selected.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_voice_call_receive.png",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable-xhdpi\\chat_voice_call_receive.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_voice_call_self.png",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable-xhdpi\\chat_voice_call_self.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_mute_on.png",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable-xhdpi\\icon_mute_on.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_voice_call_receive.png",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable-xhdpi\\chat_voice_call_receive.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chatting_biaoqing_btn_normal.png",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable-xhdpi\\chatting_biaoqing_btn_normal.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\contact_list_togroup.png",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable-xhdpi\\contact_list_togroup.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\blue_add.png",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable-xhdpi\\blue_add.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_image_pressed.png",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable-xhdpi\\chat_image_pressed.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_press_speak_btn_pressed.9.png",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable-xhdpi\\chat_press_speak_btn_pressed.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_takepic_pressed.png",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable-xhdpi\\chat_takepic_pressed.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\signin_local_gallry.png",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable-xhdpi\\signin_local_gallry.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_press_speak_btn_normal.9.png",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable-xhdpi\\chat_press_speak_btn_normal.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_takepic_normal.png",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable-xhdpi\\chat_takepic_normal.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_video_call_self.png",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable-xhdpi\\chat_video_call_self.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mm_title_remove.png",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable-xhdpi\\mm_title_remove.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_video_mask_to.9.png",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable-xhdpi\\chat_video_mask_to.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\splash_logo.png",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable-xhdpi\\splash_logo.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\add_public_group.png",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable-xhdpi\\add_public_group.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_file_normal.png",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable-xhdpi\\chat_file_normal.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\conversation_normal.png",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable-xhdpi\\conversation_normal.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\conversation_selected.png",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable-xhdpi\\conversation_selected.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_location_pressed.png",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable-xhdpi\\chat_location_pressed.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo_uidemo.png",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable-xhdpi\\logo_uidemo.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_image_normal.png",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable-xhdpi\\chat_image_normal.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\back.png",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable-xhdpi\\back.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_item_file.png",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable-xhdpi\\chat_item_file.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_mute_on.png",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable-xhdpi\\icon_mute_on.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_mute_normal.png",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable-xhdpi\\icon_mute_normal.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\right_arrow_icon.png",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable-xhdpi\\right_arrow_icon.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_video_mask_to.9.png",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable-xhdpi\\chat_video_mask_to.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_face_normal.png",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable-xhdpi\\chat_face_normal.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\app_panel_video_icon.9.png",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable-xhdpi\\app_panel_video_icon.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_file_normal.png",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable-xhdpi\\chat_file_normal.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo_uidemo.png",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable-xhdpi\\logo_uidemo.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\contact_list_normal.png",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable-xhdpi\\contact_list_normal.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_file_pressed.png",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable-xhdpi\\chat_file_pressed.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\splash_logo.png",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable-xhdpi\\splash_logo.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_voice_call_pressed.png",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable-xhdpi\\chat_voice_call_pressed.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_speaker_on.png",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable-xhdpi\\icon_speaker_on.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\mm_title_remove.png",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable-xhdpi\\mm_title_remove.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\conversation_selected.png",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable-xhdpi\\conversation_selected.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_item_file.png",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable-xhdpi\\chat_item_file.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\unread_count_bg.9.png",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable-xhdpi\\unread_count_bg.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_location_pressed.png",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable-xhdpi\\chat_location_pressed.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\unread_dot.9.png",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable-xhdpi\\unread_dot.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chatting_biaoqing_btn_enable.png",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable-xhdpi\\chatting_biaoqing_btn_enable.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_file_pressed.png",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable-xhdpi\\chat_file_pressed.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_video_call_self.png",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable-xhdpi\\chat_video_call_self.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_edit_normal.9.png",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable-xhdpi\\chat_edit_normal.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_send_btn_pressed.9.png",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable-xhdpi\\chat_send_btn_pressed.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\add.png",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable-xhdpi\\add.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\add_public_group.png",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable-xhdpi\\add_public_group.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_face_pressed.png",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable-xhdpi\\chat_face_pressed.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\add.png",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable-xhdpi\\add.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_press_speak_btn_pressed.9.png",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable-xhdpi\\chat_press_speak_btn_pressed.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_speaker_normal.png",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable-xhdpi\\icon_speaker_normal.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\create_group.png",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable-xhdpi\\create_group.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\default_avatar.png",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable-xhdpi\\default_avatar.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_send_btn_normal.9.png",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable-xhdpi\\chat_send_btn_normal.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\new_friends_icon.png",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable-xhdpi\\new_friends_icon.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_video_call_normal.png",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable-xhdpi\\chat_video_call_normal.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_location_normal.png",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable-xhdpi\\chat_location_normal.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\contact_list_selected.png",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable-xhdpi\\contact_list_selected.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_send_btn_normal.9.png",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable-xhdpi\\chat_send_btn_normal.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chatting_biaoqing_btn_normal.png",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable-xhdpi\\chatting_biaoqing_btn_normal.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_image_normal.png",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable-xhdpi\\chat_image_normal.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_takepic_normal.png",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable-xhdpi\\chat_takepic_normal.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\delete_expression.png",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable-xhdpi\\delete_expression.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\to_group_details_normal.png",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable-xhdpi\\to_group_details_normal.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_send_btn_pressed.9.png",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable-xhdpi\\chat_send_btn_pressed.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_video_call_pressed.png",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable-xhdpi\\chat_video_call_pressed.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_video_call_normal.png",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable-xhdpi\\chat_video_call_normal.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\unread_dot.9.png",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable-xhdpi\\unread_dot.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_voice_call_pressed.png",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable-xhdpi\\chat_voice_call_pressed.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\group_icon.png",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable-xhdpi\\group_icon.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_face_pressed.png",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable-xhdpi\\chat_face_pressed.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\group_icon.png",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable-xhdpi\\group_icon.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\conversation_normal.png",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable-xhdpi\\conversation_normal.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chatting_biaoqing_btn_enable.png",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable-xhdpi\\chatting_biaoqing_btn_enable.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_video_normal.png",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable-xhdpi\\chat_video_normal.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\to_group_details_normal.png",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable-xhdpi\\to_group_details_normal.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chat_video_pressed.png",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\drawable-xhdpi\\chat_video_pressed.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\unread_count_bg.9.png",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable-xhdpi\\unread_count_bg.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\settings_selected.png",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\drawable-xhdpi\\settings_selected.png"
+    }
+]

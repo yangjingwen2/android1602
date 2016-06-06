@@ -1,0 +1,634 @@
+[
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_location.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\layout\\row_received_location.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\search_bar.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\layout\\search_bar.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\context_menu_for_image.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\layout\\context_menu_for_image.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_emojicon.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\layout\\fragment_emojicon.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\row_robots.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\layout\\row_robots.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_picture.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\layout\\row_received_picture.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\activity_show_file.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\layout\\activity_show_file.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\activity_black_list.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\layout\\activity_black_list.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\activity_null.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\layout\\activity_null.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\alert_dialog.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\layout\\alert_dialog.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\activity_group_pick_contacts.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\layout\\activity_group_pick_contacts.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\activity_voice_call.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\layout\\activity_voice_call.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\context_menu_for_voice.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\layout\\context_menu_for_voice.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\row_add_group.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\layout\\row_add_group.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\activity_new_friends_msg.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\layout\\activity_new_friends_msg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_picture.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\layout\\row_sent_picture.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pick_contact_no_checkbox.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\layout\\activity_pick_contact_no_checkbox.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_voice_call.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\layout\\row_received_voice_call.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_conversation_history.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\layout\\fragment_conversation_history.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\activity_offline_push.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\layout\\activity_offline_push.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_voice_call.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\layout\\row_received_voice_call.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\main_botton_tab.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\layout\\main_botton_tab.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\activity_voice_call.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\layout\\activity_voice_call.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_video_call.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\layout\\row_sent_video_call.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\context_menu_for_location.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\layout\\context_menu_for_location.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\activity_edit.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\layout\\activity_edit.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\activity_choosevideoactivity.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\layout\\activity_choosevideoactivity.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\context_menu_for_text.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\layout\\context_menu_for_text.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\context_menu_for_text.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\layout\\context_menu_for_text.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\activity_group_details.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\layout\\activity_group_details.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\activity_new_group.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\layout\\activity_new_group.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\logout_actionsheet.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\layout\\logout_actionsheet.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_message.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\layout\\row_sent_message.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_menu.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\layout\\row_received_menu.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\context_menu_for_video.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\layout\\context_menu_for_video.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_message.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\layout\\row_received_message.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_file.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\layout\\row_sent_file.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\main_botton_tab.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\layout\\main_botton_tab.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\activity_group_details.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\layout\\activity_group_details.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_conversation_settings.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\layout\\fragment_conversation_settings.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\search_bar.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\layout\\search_bar.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\context_menu_for_video.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\layout\\context_menu_for_video.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_voice.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\layout\\row_received_voice.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\logout_actionsheet.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\layout\\logout_actionsheet.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\row_add_group.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\layout\\row_add_group.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_video_call.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\layout\\row_sent_video_call.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\activity_group_simle_details.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\layout\\activity_group_simle_details.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_groups.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\layout\\fragment_groups.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_groups.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\layout\\fragment_groups.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_file.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\layout\\row_received_file.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_conversation_history.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\layout\\fragment_conversation_history.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\activity_group_blacklist.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\layout\\activity_group_blacklist.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\activity_new_group.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\layout\\activity_new_group.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\activity_null.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\layout\\activity_null.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\row_contact_with_checkbox.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\layout\\row_contact_with_checkbox.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\activity_diagnose.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\layout\\activity_diagnose.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_chatroom.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\layout\\fragment_chatroom.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_location.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\layout\\row_received_location.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\row_chat_history.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\layout\\row_chat_history.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\showvideo_activity.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\layout\\showvideo_activity.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\activity_show_big_image.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\layout\\activity_show_big_image.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\activity_group_blacklist.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\layout\\activity_group_blacklist.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\activity_black_list.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\layout\\activity_black_list.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\context_menu_for_location.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\layout\\context_menu_for_location.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chat.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\row_group.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\layout\\row_group.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\listview_footer_view.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\layout\\listview_footer_view.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\recorder_activity.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\layout\\recorder_activity.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_contact.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\layout\\activity_add_contact.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\activity_baidumap.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\layout\\activity_baidumap.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\row_robots.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\layout\\row_robots.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_video_call.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\layout\\row_received_video_call.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\image_grid_fragment.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\layout\\image_grid_fragment.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\activity_choosevideoactivity.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\layout\\activity_choosevideoactivity.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\commom_back_btn.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\layout\\commom_back_btn.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_file.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\layout\\row_sent_file.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_video.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\layout\\row_received_video.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_voice.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\layout\\row_received_voice.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\activity_group_simle_details.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\layout\\activity_group_simle_details.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\main_init_view.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\layout\\main_init_view.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pick_contact_no_checkbox.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\layout\\activity_pick_contact_no_checkbox.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\listview_footer_view.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\layout\\listview_footer_view.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\row_contact.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\layout\\row_contact.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\row_contact_with_checkbox.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\layout\\row_contact_with_checkbox.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_location.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\layout\\row_sent_location.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\grid.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\layout\\grid.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\row_contact.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\layout\\row_contact.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chat.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\choose_griditem.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\layout\\choose_griditem.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\activity_diagnose.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\layout\\activity_diagnose.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\commom_back_btn.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\layout\\commom_back_btn.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_emojicon.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\layout\\fragment_emojicon.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\activity_offline_push.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\layout\\activity_offline_push.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_file.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\layout\\row_received_file.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\choose_griditem.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\layout\\choose_griditem.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_picture.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\layout\\row_received_picture.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\main_init_view.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\layout\\main_init_view.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\activity_public_groups.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\layout\\activity_public_groups.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\row_invite_msg.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\layout\\row_invite_msg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\search_bar_with_padding.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\layout\\search_bar_with_padding.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\showvideo_activity.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\layout\\showvideo_activity.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_voice_call.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\layout\\row_sent_voice_call.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_picture.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\layout\\row_sent_picture.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_message.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\layout\\row_sent_message.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_video.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\layout\\row_sent_video.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_profile.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\layout\\activity_user_profile.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_location.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\layout\\row_sent_location.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_video.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\layout\\row_sent_video.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\activity_edit.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\layout\\activity_edit.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\context_menu_for_voice.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\layout\\context_menu_for_voice.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_voice_call.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\layout\\row_sent_voice_call.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\activity_public_groups_search.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\layout\\activity_public_groups_search.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_chatroom.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\layout\\fragment_chatroom.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\row_expression.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\layout\\row_expression.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\row_expression.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\layout\\row_expression.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\chat_neterror_item.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\layout\\chat_neterror_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\activity_new_friends_msg.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\layout\\activity_new_friends_msg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\row_group.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\layout\\row_group.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\activity_public_groups.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\layout\\activity_public_groups.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_contact_list.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\layout\\fragment_contact_list.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_contact.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\layout\\activity_add_contact.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_message.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\layout\\row_received_message.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_contact_list.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\layout\\fragment_contact_list.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\image_grid_fragment.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\layout\\image_grid_fragment.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\alert_dialog.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\layout\\alert_dialog.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_video.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\layout\\row_received_video.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_voice.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\layout\\row_sent_voice.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\row_invite_msg.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\layout\\row_invite_msg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\expression_gridview.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\layout\\expression_gridview.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\activity_video_call.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\layout\\activity_video_call.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\activity_show_big_image.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\layout\\activity_show_big_image.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_menu.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\layout\\row_received_menu.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\activity_public_groups_search.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\layout\\activity_public_groups_search.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\row_chat_history.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\layout\\row_chat_history.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\search_bar_with_padding.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\layout\\search_bar_with_padding.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\expression_gridview.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\layout\\expression_gridview.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\activity_show_file.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\layout\\activity_show_file.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_profile.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\layout\\activity_user_profile.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\row_sent_voice.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\layout\\row_sent_voice.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_robots.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\layout\\fragment_robots.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\activity_group_pick_contacts.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\layout\\activity_group_pick_contacts.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\grid.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\layout\\grid.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\activity_baidumap.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\layout\\activity_baidumap.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\context_menu_for_image.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\layout\\context_menu_for_image.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_robots.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\layout\\fragment_robots.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\chat_neterror_item.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\layout\\chat_neterror_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\row_received_video_call.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\layout\\row_received_video_call.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\recorder_activity.xml",
+        "source": "E:\\workspace\\studiowork\\AndroidDemo\\ChatDemoUI\\res\\layout\\recorder_activity.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_conversation_settings.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\layout\\fragment_conversation_settings.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\build\\intermediates\\res\\merged\\debug\\layout\\activity_video_call.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\ChatDemoUI\\res\\layout\\activity_video_call.xml"
+    }
+]
