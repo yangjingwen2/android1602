@@ -1,13 +1,12 @@
-package com.androidxx.yangjw.imdemo.chat;
+package com.androidxx.yangjw.imdemo.group;
 
 import android.os.AsyncTask;
+import android.os.Bundle;
 import android.os.Handler;
 import android.os.Message;
 import android.support.v7.app.AppCompatActivity;
-import android.os.Bundle;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
-import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -20,12 +19,10 @@ import com.hyphenate.EMMessageListener;
 import com.hyphenate.chat.EMClient;
 import com.hyphenate.chat.EMMessage;
 
-import org.w3c.dom.Text;
-
 import java.util.ArrayList;
 import java.util.List;
 
-public class ChatActivity extends AppCompatActivity {
+public class GroupChatActivity extends AppCompatActivity {
 
     private EditText mMsgEdt;
     private Button mSendBtn;
@@ -42,11 +39,13 @@ public class ChatActivity extends AppCompatActivity {
             myChatAdapter.notifyDataSetChanged();
         }
     };
+    private String groupId;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_chat);
+        groupId = getIntent().getStringExtra("group_id");
         //注册消息接收的监听器
         EMClient.getInstance().chatManager().addMessageListener(emMessageListener);
         mMsgEdt = (EditText) findViewById(R.id.chat_msg_edt);
@@ -73,7 +72,7 @@ public class ChatActivity extends AppCompatActivity {
 
         @Override
         public ChatViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
-            View view = LayoutInflater.from(ChatActivity.this).inflate(R.layout.chat_item_layout, null);
+            View view = LayoutInflater.from(GroupChatActivity.this).inflate(R.layout.chat_item_layout, null);
 
             return new ChatViewHolder(view);
         }
@@ -125,7 +124,8 @@ public class ChatActivity extends AppCompatActivity {
         protected String doInBackground(String... params) {
 
             //创建一条文本消息，content为消息文字内容，toChatUsername为对方用户或者群聊的id，后文皆是如此
-            EMMessage message = EMMessage.createTxtSendMessage(params[0], "yangjw");
+            EMMessage message = EMMessage.createTxtSendMessage(params[0], groupId);
+            message.setChatType(EMMessage.ChatType.GroupChat);
             messages.add(message);
 //如果是群聊，设置chattype，默认是单聊
 //            if (chatType == CHATTYPE_GROUP)

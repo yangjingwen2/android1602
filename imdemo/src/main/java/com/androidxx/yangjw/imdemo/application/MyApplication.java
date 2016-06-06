@@ -16,7 +16,7 @@ public class MyApplication extends Application {
         //还信初始化
         EMOptions options = new EMOptions();
         // 默认添加好友时，是不需要验证的，改成需要验证
-        options.setAcceptInvitationAlways(false);
+//        options.setAcceptInvitationAlways(false);
         options.setAutoLogin(false);
         //如果有第3方的启动项（比如百度地图），则需要根据官网添加判断语句
         //初始化

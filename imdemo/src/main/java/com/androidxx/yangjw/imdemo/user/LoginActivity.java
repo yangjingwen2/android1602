@@ -35,6 +35,7 @@ import java.util.List;
 
 import com.androidxx.yangjw.imdemo.R;
 import com.androidxx.yangjw.imdemo.chat.ChatActivity;
+import com.androidxx.yangjw.imdemo.chat.IndexActivity;
 import com.hyphenate.EMCallBack;
 import com.hyphenate.chat.EMClient;
 
@@ -203,7 +204,7 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
                 @Override
                 public void onSuccess() {
                     //登陆成功之后跳转到聊天界面
-                    Intent intent = new Intent(LoginActivity.this, ChatActivity.class);
+                    Intent intent = new Intent(LoginActivity.this, IndexActivity.class);
                     startActivity(intent);
                     finish();
                 }
