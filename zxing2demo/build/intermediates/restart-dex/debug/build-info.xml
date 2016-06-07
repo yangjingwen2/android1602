@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86,armeabi-v7a"
+    api-level="16"
+    density="xhdpi"
+    format="7"
+    timestamp="713676930564537" >
+
+    <task
+        name="javac"
+        duration="2974" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="1016" />
+    <task
+        name="verifier"
+        duration="348" />
+
+    <artifact
+        location="E:\workspace\studiowork\TopLevel1602\zxing2demo\build\outputs\apk\zxing2demo-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="713676930564537" >
+        <artifact
+            location="E:\workspace\studiowork\TopLevel1602\zxing2demo\build\outputs\apk\zxing2demo-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

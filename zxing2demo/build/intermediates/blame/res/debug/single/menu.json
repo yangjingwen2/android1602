@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\zxing2demo\\build\\intermediates\\res\\merged\\debug\\menu\\capture.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\zxing2demo\\src\\main\\res\\menu\\capture.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\zxing2demo\\build\\intermediates\\res\\merged\\debug\\menu\\encode.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\zxing2demo\\src\\main\\res\\menu\\encode.xml"
+    },
+    {
+        "merged": "E:\\workspace\\studiowork\\TopLevel1602\\zxing2demo\\build\\intermediates\\res\\merged\\debug\\menu\\history.xml",
+        "source": "E:\\workspace\\studiowork\\TopLevel1602\\zxing2demo\\src\\main\\res\\menu\\history.xml"
+    }
+]
