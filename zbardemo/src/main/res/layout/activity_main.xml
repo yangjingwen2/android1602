@@ -9,8 +9,15 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.example.yangjw.zbardemo.MainActivity">
 
+    <SurfaceView
+        android:id="@+id/surface_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
     <TextView
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Hello World!" />
+        android:text="如果要使用二维码扫描，请将启动Activity修改为CaptureActivity"
+        android:textColor="#FFFFFF"
+        android:background="#AA000000"/>
 </RelativeLayout>
