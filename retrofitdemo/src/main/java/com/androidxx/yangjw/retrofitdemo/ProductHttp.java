@@ -13,7 +13,7 @@ import retrofit2.http.Query;
 public interface ProductHttp {
 
     //http://api.liwushuo.com/v2/items?gender=1&limit=20&offset=0&generation=2
-    @GET("/222/items")
+    @GET("/v2/items")
    Call<ResponseBody> loadAll(@Query("gender") String gender, @Query("limit") String limit, @Query("offset") String offset, @Query("generation") String generation);
 
     //http://api.liwushuo.com/v2/channels/111/items?limit=20&gender=1&offset=0&generation=2&order_by=nowhttp://api.liwushuo.com/v2/channels/111/items?limit=20&gender=1&offset=0&generation=2&order_by=now
