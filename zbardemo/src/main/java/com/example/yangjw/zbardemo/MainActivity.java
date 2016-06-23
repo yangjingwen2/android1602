@@ -13,6 +13,7 @@ import java.io.IOException;
 public class MainActivity extends AppCompatActivity implements SurfaceHolder.Callback{
 
     private SurfaceView surfaceView;
+    //相机功能
     Camera camera;
 
     @Override
