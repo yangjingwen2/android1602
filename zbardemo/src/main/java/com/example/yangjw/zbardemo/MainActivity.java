@@ -14,6 +14,8 @@ public class MainActivity extends AppCompatActivity implements SurfaceHolder.Cal
 
     private SurfaceView surfaceView;
     //相机功能
+    //建立了分支
+    //11111111111
     Camera camera;
 
     @Override
